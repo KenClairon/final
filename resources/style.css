@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: #f2f2f2;
+    position: relative;
+  }
+  body::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    background: #2d5910;
+    clip-path: inset(47% 0 0 0);
+    z-index: -1;
+    height: 100%;
+  }

@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/011/188/550/original/internet-security-and-private-data-website-background-with-a-place-for-text-cyber-security-services-illustration-vector.jpg");
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #000000;
+}
+
+h2{
+  color: #dbdbdb;
+}
+
+.paddown {
+  padding-bottom: 2ch;
+}
+
+.padtop {
+  padding-top: 2cm;
+}
+
+table {
+  color: #dbdbdb;;
+}
+
+p {
+  color:#000000
+}
